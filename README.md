@@ -5,6 +5,8 @@ Welcome to the Advent of Code[^aoc] Kotlin project created by [raspikonk][github
 In this repository, raspikonk is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
 Overview of days and tasks:
+- Day 7: calculate to which position a flock ob crab submarines has to dive to burn the least fuel
+- Day ...
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
